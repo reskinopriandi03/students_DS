@@ -1,0 +1,14 @@
+ipykernel
+ipython
+ipywidgets
+joblib
+jupyter
+matplotlib
+matplotlib-inline
+notebook
+numpy
+pandas
+scikit-learn
+seaborn
+tqdm
+streamlit
